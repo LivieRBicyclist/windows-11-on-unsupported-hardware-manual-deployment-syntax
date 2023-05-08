@@ -39,6 +39,6 @@ bcdboot Z:\Windows /s W:
 wpeutil reboot
 
 [NOTE: Do NOT boot from USB, rather, let it boot from the hard disk(system partition).
-Also, if you plan on adding a personal Windows account, do it once you finish 
-setting up Windows by first using a local account, then add your MS account via System
-settings. Make sure you have an internet connection.]
+Also, dont' forget to choose your edition of Windows properly. And, to trigger the
+command prompt, use the shortcut Shift+F10 in the installer. Or, just watch the video on my 
+Tech channel @TechLivieOfficial2023.]
